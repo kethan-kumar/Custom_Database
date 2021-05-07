@@ -1,8 +1,27 @@
 Database & its management system (DBMS)
+
 The database and its management system would simulate a basic system like MySQL and implements multiple database
-queries. Functionalities:
-- Menu SQL queries functional in the current version:
-- CREATE - INSERT - UPDATE - DELETE - SELECT - SQL DUMP - ERD generation - FOREIGN KEY
+queries.
+
+Functionalities:
+- Basic Menu with multiple options like
+  1. New user
+  2. Existing user
+  3. MySQL Command prompt
+  4. MySQL Dump
+  5. Export ERD
+  6. Exit from application 
+ 
+SQL queries functional in the current version:
+- Regular expression for the queries have been implemented without any library support.
+  . CREATE
+  . INSERT
+  . UPDATE
+  . DELETE
+  . SELECT
+  . SQL DUMP
+  . ERD generation
+  . FOREIGN KEY support
 
 User store instructions:
 
