@@ -14,14 +14,14 @@ Functionalities:
  
 SQL queries functional in the current version:
 - Regular expression for the queries have been implemented without any library support.
-  . CREATE
-  . INSERT
-  . UPDATE
-  . DELETE
-  . SELECT
-  . SQL DUMP
-  . ERD generation
-  . FOREIGN KEY support
+  1. CREATE
+  2. INSERT
+  3. UPDATE
+  4. DELETE
+  5. SELECT
+  6. SQL DUMP
+  7. ERD generation
+  8. FOREIGN KEY support
 
 User store instructions:
 
