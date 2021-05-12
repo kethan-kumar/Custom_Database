@@ -1,9 +1,14 @@
-Database & its management system (DBMS)
+# Database & its management system (DBMS)
 
 The database and its management system would simulate a basic system like MySQL and implements multiple database
 queries.
 
-Functionalities:
+## Group Members:
+- Amelia Hernandez Beltran
+- Kethan Kumar Nasapu
+- Rashmi Chandy
+
+## Functionalities:
 - Basic Menu with multiple options like
   1. New user
   2. Existing user
@@ -12,7 +17,7 @@ Functionalities:
   5. Export ERD
   6. Exit from application 
  
-SQL queries functional in the current version:
+### SQL queries functional in the current version:
 - Regular expression for the queries have been implemented without any library support.
   1. CREATE
   2. INSERT
@@ -23,7 +28,7 @@ SQL queries functional in the current version:
   7. ERD generation
   8. FOREIGN KEY support
 
-User store instructions:
+### User store instructions:
 
 - user_store.enc_copy: it's an empty user store with the columns [username, password]
 
